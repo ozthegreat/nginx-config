@@ -1,4 +1,14 @@
-nginx_config
-============
+nginx performance config files
+==============================
 
-Config files for nginx
+A set of configure files performance & security opimised for nginx.
+
+
+nginx.conf
+----------
+
+
+
+
+Example Site config
+-------------------
